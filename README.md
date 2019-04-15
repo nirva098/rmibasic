@@ -17,15 +17,15 @@ So, create a RMI program, follow theses steps:
 To run the the program, follow these steps: 
 
 1. compile all java files 
-	javac *.java
+	"javac *.java"
 2. Create stub and skeleton
-	rmic AddC
+	"rmic AddC"
 3. Start rmi registry
-	start rmiregistry
+	"start rmiregistry"
 4. Start the server 
-	java Server
+	"java Server"
 5. Start the Client (Of course on different terminal)
-	java Client
+	"java Client"
 
 
 
