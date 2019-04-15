@@ -1,7 +1,8 @@
 # rmibasic
-Try a simple rmi program 
+Try a simple rmi program.
 
-disclaimer: This code is the followed by youtube video of Telusko learning
+disclaimer: This code is the followed by youtube video of Telusko learning.
+
 Problem statement: to perform addition remotely from client to server
 
 This section includes the steps to create a RMI program and then run it.
