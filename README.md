@@ -5,7 +5,7 @@ disclaimer: This code is the followed by youtube video of Telusko learning.
 
 Problem statement: to perform addition remotely from client to server
 
-This section includes the steps to create a RMI program and then run it.
+This section includes the steps to create and run rmi program.
 
 So, create a RMI program, follow theses steps:
 
